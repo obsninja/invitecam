@@ -1344,29 +1344,6 @@ a {
   width: 100%;
   object-fit: cover;
 }
-.cid-sqzjKvrmRH {
-  padding-top: 5rem;
-  padding-bottom: 5rem;
-  background-color: #ffffff;
-}
-.cid-sqzjKvrmRH ul {
-  list-style: none;
-  margin: 0;
-  padding-left: 2.5rem;
-}
-.cid-sqzjKvrmRH li {
-  position: relative;
-  margin-bottom: 1rem;
-}
-.cid-sqzjKvrmRH ul li::before {
-  position: absolute;
-  left: -1.6rem;
-  content: "\2022";
-  color: #4479d9;
-  font-weight: bold;
-  font-size: 2rem;
-  width: 1.6rem;
-}
 .cid-s48P1Icc8J {
   padding-top: 2rem;
   padding-bottom: 2rem;
